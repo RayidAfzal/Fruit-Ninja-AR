@@ -20,7 +20,7 @@ A fun **Augmented Reality Fruit Ninja** game built using **Python** and **OpenCV
 
 1️⃣ **Clone this repository**  
 ```bash
-git clone https://github.com/RayidAfzal/ar-fruit-ninja.git
+git clone https://github.com/RayidAfzal/Fruit-Ninja-AR.git
 cd ar-fruit-ninja
 ```
 
