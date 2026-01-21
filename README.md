@@ -31,7 +31,7 @@ pip install opencv-python mediapipe numpy pygame
 
 3️⃣ **Run the game**  
 ```bash
-python main.py
+python game.py
 ```
 
 ## 🎮 How to Play
